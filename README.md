@@ -12,6 +12,7 @@ The official code for ECCV22: Helpful or Harmful: Inter-Task Association for Con
 
 
 ## Run the train code 
+The code supports the Split CIFAR-10 experiment.
 
 ```bash
 python3 main.py
