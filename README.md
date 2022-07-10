@@ -23,7 +23,8 @@ The code supports the Split CIFAR-10 experiment.
 ```bash
 python3 main.py
 ```
-
+Please, change the hyper-parmeters in the corresponding file (config/CONFIG.py) if needed.
+  
 ## Requirements 
 ```bash
 Please check requirements.txt file
@@ -33,7 +34,7 @@ Please check requirements.txt file
 
 ```bash
 config
-  ㄴ config.py
+  ㄴ CONFIG.py
 data_loader
   ㄴ split_cifar10_data.py
 model
