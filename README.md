@@ -11,11 +11,10 @@ The official code for ECCV22: Helpful or Harmful: Inter-Task Association for Con
 </div>
 
 # Description
-A continual learning framework described in the following paper. 
+A continual learning framework described in the following paper [Link]. 
 Note, this is work in progress and this code that will be dynamically updated.
 
 This repository currently contains code to run experiments of H<sup>2  
-CIFAR-10 
 
 ## Run the train code 
 The code supports the Split CIFAR-10 experiment.
