@@ -10,6 +10,19 @@ The official code for ECCV22: Helpful or Harmful: Inter-Task Association for Con
 
 </div>
 
+```bash
+config
+  ㄴ config.py
+data_loader
+  ㄴ split_cifar10_data.py
+model
+  ㄴ resnet18.py
+src 
+  ㄴ main.py
+  ㄴ manager.py
+  ㄴ pruner.py
+```
+
 ## Run the train code 
 
 ```bash
