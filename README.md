@@ -19,7 +19,7 @@ python3 main.py
 
 ## Requirements 
 ```bash
-Please refer to the requirements.txt file
+Please check requirements.txt file
 ```
 
 ## Code list 
