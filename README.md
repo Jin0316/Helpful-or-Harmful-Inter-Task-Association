@@ -27,11 +27,9 @@ Please, change the hyper-parmeters in the corresponding file (config/CONFIG.py) 
 python3 main.py
 ```
 
-  
 ## Requirements 
-```bash
-Please check requirements.txt file
-```
+  
+Please, find a list with requiered packages and versions in requirements.txt
 
 ## Code list 
 
