@@ -10,7 +10,7 @@ The official code for ECCV22: Helpful or Harmful: Inter-Task Association for Con
 
 </div>
 
-Usage 
+## Run the train code 
 
 ```bash
 python3 main.py
