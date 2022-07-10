@@ -10,6 +10,19 @@ The official code for ECCV22: Helpful or Harmful: Inter-Task Association for Con
 
 </div>
 
+
+## Run the train code 
+
+```bash
+python3 main.py
+```
+
+## Requirements 
+```bash
+tqdm 4.62.3
+pytorch 1.8.0 
+```
+
 ## Code list 
 
 ```bash
@@ -23,10 +36,4 @@ src
   ㄴ main.py
   ㄴ manager.py
   ㄴ pruner.py
-```
-
-## Run the train code 
-
-```bash
-python3 main.py
 ```
