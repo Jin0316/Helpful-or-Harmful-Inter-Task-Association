@@ -18,12 +18,13 @@ Note, this is work in progress and this code that will be dynamically updated.
 This repository currently contains code to run experiments of H<sup>2.
 
 ## Run the train code 
-The code supports the Split CIFAR-10 experiment.
-
+This repository currently supports Split CIFAR-10 experiment in original paper.
+Please, change the hyper-parmeters in the corresponding file (config/CONFIG.py) if needed.
+  
 ```bash
 python3 main.py
 ```
-Please, change the hyper-parmeters in the corresponding file (config/CONFIG.py) if needed.
+
   
 ## Requirements 
 ```bash
