@@ -10,7 +10,7 @@ The official code for Helpful or Harmful: Inter-Task Association in Continual Le
 
 </div>
 
-# Description
+## Description
 A continual learning framework described in the following paper [Link]. 
 
 Note, this code will be dynamically updated.
