@@ -1,6 +1,6 @@
 # Helpful-or-Harmful:Inter-Task Association for Continual Learning
 
-The official code for ECCV22: Helpful or Harmful: Inter-Task Association for Continual Learning
+The official code for Helpful or Harmful: Inter-Task Association for Continual Learning [ECCV 22]
 
 <div align="center">
   
