@@ -1,0 +1,18 @@
+scikit-learn==1.0.2
+scipy==1.8.0
+simplejson==3.17.6
+sip==4.19.13
+smart-open==1.9.0
+tensorboard==2.7.0
+tensorboard-data-server==0.6.1
+threadpoolctl==3.1.0
+torch==1.8.0
+torch-tb-profiler==0.3.1
+torchaudio==0.8.0a0+a751e1d
+torchfile==0.1.0
+torchnet==0.0.4
+torchsummary==1.5.1
+torchvision==0.9.0
+tqdm 4.62.3
+visdom==0.1.8.9
+
