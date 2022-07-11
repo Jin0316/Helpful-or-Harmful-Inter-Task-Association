@@ -1,6 +1,6 @@
 # Helpful or Harmful: Inter-Task Association in Continual Learning
 
-The official code for Helpful or Harmful: Inter-Task Association in Continual Learning ![ECCV](https://img.shields.io/badge/ECCV-2022-blue) [![PyTorch](https://img.shields.io/badge/pytorch-1.8.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
+The official code for Helpful or Harmful: Inter-Task Association in Continual Learning 
 
 Author: Hyundong Jin and Eunwoo Kim 
 
