@@ -2,24 +2,20 @@
 
 The official code for Helpful or Harmful: Inter-Task Association in Continual Learning ![ECCV](https://img.shields.io/badge/ECCV-2022-blue) [![PyTorch](https://img.shields.io/badge/pytorch-1.8.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
 
+Author: Hyundong Jin and Eunwoo Kim 
+In Proc. of the European Conference on Computer Vision (ECCV), 2022 
+
 <div align="center">
 
 ![h2](images/H_2_ECCV_2022.png)
 
 </div>
 
-## Description
-A continual learning framework described in the following paper [Link]. 
-
-Note, this code will be dynamically updated.
-
-This repository currently contains code to run experiments of H<sup>2.
-
 ## Run the code
 
-This repository currently supports Split CIFAR-10 experiment in original paper.
+This repository currently supports the Split CIFAR-10 experiment in the original paper.
   
-Please, change the hyper-parmeters in the corresponding file (config/CONFIG.py) if needed.
+You can change the hyper-parmeters in the corresponding file (config/CONFIG.py) if needed.
   
 ```bash
 python3 main.py
@@ -27,7 +23,7 @@ python3 main.py
   
 ## Requirements 
   
-Please, find a list with requiered packages and versions in requirements.txt
+Please, find a list with required packages and versions in requirements.txt
 
 ## Code list 
 
