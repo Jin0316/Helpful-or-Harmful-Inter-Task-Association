@@ -12,6 +12,10 @@ In Proc. of the European Conference on Computer Vision (ECCV), 2022
 
 </div>
 
+|               |   T1   |   T2   |   T3   |   T4   |   T5   |  Avg acc  |
+|:-------------:|:------:|:------:|:------:|:------:|:------:|:---------:|
+| H2            |  98.9  |  94.1  |  96.4  | 98.90  |  98.12 |   97.27   |
+
 ## Run the code
 
 This repository currently supports the Split CIFAR-10 experiment in the original paper.
