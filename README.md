@@ -12,10 +12,6 @@ In Proc. of the European Conference on Computer Vision (ECCV), 2022
 
 </div>
 
-|               |   T1   |   T2   |   T3   |   T4   |   T5   |  Avg acc  |
-|:-------------:|:------:|:------:|:------:|:------:|:------:|:---------:|
-| H2            |  98.9  |  94.1  |  96.4  | 98.90  |  98.12 |   97.27   |
-
 ## Run the code
 
 This repository currently supports the Split CIFAR-10 experiment in the original paper.
@@ -25,7 +21,13 @@ You can change the hyper-parmeters in the corresponding file (config/CONFIG.py) 
 ```bash
 python3 main.py
 ```
-  
+The accuracy of each task is the average of 10 independent runs.
+T# represents #-th task. 
+
+|               |   T1   |   T2   |   T3   |   T4   |   T5   |  Avg acc  |
+|:-------------:|:------:|:------:|:------:|:------:|:------:|:---------:|
+| H2            |  98.9  |  94.1  |  96.4  | 98.90  |  98.12 |   97.27   |  
+
 ## Requirements 
   
 Please, find a list with required packages and versions in requirements.txt
