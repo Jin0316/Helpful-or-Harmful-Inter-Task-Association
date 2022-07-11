@@ -21,12 +21,14 @@ You can change the hyper-parmeters in the corresponding file (config/CONFIG.py) 
 ```bash
 python3 main.py
 ```
+
 The accuracy of each task is the average of 10 independent runs.
+
 T# represents #-th task. 
 
-|               |   T1   |   T2   |   T3   |   T4   |   T5   |  Avg acc  |
-|:-------------:|:------:|:------:|:------:|:------:|:------:|:---------:|
-| H2            |  98.9  |  94.1  |  96.4  | 98.90  |  98.12 |   97.27   |  
+|               |   T1    |   T2    |   T3    |   T4   |   T5   |  Avg acc  |
+|:-------------:|:-------:|:-------:|:-------:|:------:|:------:|:---------:|
+| H2            |  98.82  |  94.13  |  96.36  | 98.90  |  98.27 |   97.30   |  
 
 ## Requirements 
   
