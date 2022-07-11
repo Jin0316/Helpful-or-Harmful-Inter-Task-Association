@@ -26,9 +26,13 @@ The accuracy of each task is the average of 10 independent runs.
 
 T# represents #-th task. 
 
+<div align="center">
+
 |               |   T1    |   T2    |   T3    |   T4   |   T5   |  Avg acc  |
 |:-------------:|:-------:|:-------:|:-------:|:------:|:------:|:---------:|
-| H2            |  98.82  |  94.13  |  96.36  | 98.90  |  98.27 |   97.30   |  
+| H2            |  98.82  |  94.13  |  96.36  | 98.90  |  98.27 |   97.30   | 
+
+</div>
 
 ## Requirements 
   
