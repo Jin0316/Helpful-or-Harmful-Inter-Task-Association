@@ -8,6 +8,9 @@ In Proc. of the European Conference on Computer Vision (ECCV), 2022
 
 <div align="center">
 
+![ECCV](https://img.shields.io/badge/ECCV-2022-blue)
+[![PyTorch](https://img.shields.io/badge/pytorch-1.8.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
+
 ![h2](images/H_2_ECCV_2022.png)
 
 </div>
