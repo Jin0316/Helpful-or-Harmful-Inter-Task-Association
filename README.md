@@ -1,10 +1,8 @@
 # Helpful or Harmful: Inter-Task Association in Continual Learning
 
-The official code for Helpful or Harmful: Inter-Task Association in Continual Learning [ECCV 22]
+The official code for Helpful or Harmful: Inter-Task Association in Continual Learning ![ECCV](https://img.shields.io/badge/ECCV-2022-blue)
 
 <div align="center">
-  
-![ECCV](https://img.shields.io/badge/ECCV-2022-blue)
 
 ![h2](images/H_2_ECCV_2022.png)
 
