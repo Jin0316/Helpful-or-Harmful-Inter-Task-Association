@@ -130,9 +130,7 @@ class Manager(object):
             if dataset_idx > 1:
                 self.pruner.concat_original_model(dataset_idx, original_model)
 
-            self.probability_params = nn.functional.gumbel_softmax(self.model.probability, 1.0)
-            print(self.probability_params)
-            
+            self.probability_params = nn.functional.gumbel_softmax(self.model.probability, 1.0)            
         del self.model
 
         return self.probability_params
