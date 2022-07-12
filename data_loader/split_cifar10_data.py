@@ -58,13 +58,13 @@ data_transforms = {
 }
 
 def get_cifar10_data(classes):
-    train_data = split_cifar10(root = '/home/ubuntu/disk1/pytorch_datasets', 
+    train_data = split_cifar10(root = './data', 
                                 classes = classes, 
                                 train = True, 
                                 transform = data_transforms['train'], 
                                 download = True)
 
-    test_data = split_cifar10(root = '/home/ubuntu/disk1/pytorch_datasets', 
+    test_data = split_cifar10(root = './data', 
                                 classes = classes, 
                                 train = False, 
                                 transform = data_transforms['test'], 
