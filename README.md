@@ -10,10 +10,13 @@ In Proc. of the European Conference on Computer Vision (ECCV), 2022
 
 ![ECCV](https://img.shields.io/badge/ECCV-2022-blue)
 [![PyTorch](https://img.shields.io/badge/pytorch-1.8.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
+</div>
 
 Leaderboard of ImageNet with Five Fine grained datasets
-> Note that leaderboard compares with network expansion methods. 
- 
+> Note that leaderboard compares with network expansion methods.
+
+ <div align="center">
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-imagenet-fine-grained-6?tag_filter=463)](https://paperswithcode.com/sota/continual-learning-on-imagenet-fine-grained-6?tag_filter=463p=helpful-or-harmful-inter-task-association-in)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-cubs-fine-grained-6?tag_filter=463)](https://paperswithcode.com/sota/continual-learning-on-cubs-fine-grained-6?metric=Accuracy&tag_filter=463p=helpful-or-harmful-inter-task-association-in)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-stanford-cars-fine?tag_filter=463)](https://paperswithcode.com/sota/continual-learning-on-stanford-cars-fine?tag_filter=463p=helpful-or-harmful-inter-task-association-in)
