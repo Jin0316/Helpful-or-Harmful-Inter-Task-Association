@@ -13,7 +13,7 @@ In Proc. of the European Conference on Computer Vision (ECCV), 2022
 </div>
 
 Leaderboard of ImageNet with Five Fine grained datasets
-> Note that leaderboard compares with network expansion methods.
+> Note that the leaderboard compares methods with network expansion, while $$H^{2}$$ is a method without expanding the network. 
 
  <div align="center">
 
