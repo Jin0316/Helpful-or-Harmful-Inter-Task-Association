@@ -26,11 +26,9 @@ Leaderboard of ImageNet with Five Fine grained datasets
 
 </div>
 
- <div align="center">
+
   
 Leaderboard of Split CIFAR-10 (5 tasks) and Split MNIST (5 tasks)
-
-</div>
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-split-cifar-10-5-tasks)](https://paperswithcode.com/sota/continual-learning-on-split-cifar-10-5-tasks?p=helpful-or-harmful-inter-task-association-in)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-split-mnist-5-tasks)](https://paperswithcode.com/sota/continual-learning-on-split-mnist-5-tasks?p=helpful-or-harmful-inter-task-association-in)
