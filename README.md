@@ -24,6 +24,8 @@ Leaderboard of ImageNet with Five Fine grained datasets
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-wikiart-fine-grained-6?tag_filter=463)](https://paperswithcode.com/sota/continual-learning-on-wikiart-fine-grained-6?tag_filter=463p=helpful-or-harmful-inter-task-association-in)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-sketch-fine-grained-6?tag_filter=463)](https://paperswithcode.com/sota/continual-learning-on-sketch-fine-grained-6?tag_filter=463p=helpful-or-harmful-inter-task-association-in)
 
+Leaderboard of Split CIFAR-10 (5 tasks) and Split MNIST (5 tasks)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-split-cifar-10-5-tasks)](https://paperswithcode.com/sota/continual-learning-on-split-cifar-10-5-tasks?p=helpful-or-harmful-inter-task-association-in)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-split-mnist-5-tasks)](https://paperswithcode.com/sota/continual-learning-on-split-mnist-5-tasks?p=helpful-or-harmful-inter-task-association-in)
 
