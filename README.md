@@ -11,7 +11,7 @@ In Proc. of the European Conference on Computer Vision (ECCV), 2022
 ![ECCV](https://img.shields.io/badge/ECCV-2022-blue)
 [![PyTorch](https://img.shields.io/badge/pytorch-1.8.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-imagenet-fine-grained-6)](https://paperswithcode.com/sota/continual-learning-on-imagenet-fine-grained-6?p=helpful-or-harmful-inter-task-association-in)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-imagenet-fine-grained-6)](https://paperswithcode.com/sota/continual-learning-on-imagenet-fine-grained-6?tag_filter=463p=helpful-or-harmful-inter-task-association-in)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-cubs-fine-grained-6)](https://paperswithcode.com/sota/continual-learning-on-cubs-fine-grained-6?p=helpful-or-harmful-inter-task-association-in)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-stanford-cars-fine)](https://paperswithcode.com/sota/continual-learning-on-stanford-cars-fine?p=helpful-or-harmful-inter-task-association-in)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/helpful-or-harmful-inter-task-association-in/continual-learning-on-flowers-fine-grained-6)](https://paperswithcode.com/sota/continual-learning-on-flowers-fine-grained-6?p=helpful-or-harmful-inter-task-association-in)
