@@ -78,3 +78,15 @@ src
   ㄴ manager.py
   ㄴ pruner.py
 ```
+
+## Reference 
+If you find our code useful for your research, please cite our paper.
+```
+@inproceedings{jin2022helpful,
+  title={Helpful or Harmful: Inter-task Association in Continual Learning},
+  author={Hyundong Jin and Eunwoo Kim},
+  booktitle={European Conference on Computer Vision},
+  pages={519--535},
+  year={2022},
+  organization={Springer} }
+```
